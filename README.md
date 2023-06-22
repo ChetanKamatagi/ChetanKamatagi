@@ -1,3 +1,4 @@
+![logo](https://github.com/ChetanKamatagi/ChetanKamatagi/blob/main/Yellow%20&%20Black%20Simple%20Profile%20LinkedIn%20Banner.png?raw=true)
 <h1 align="center">Hi 👋, I'm Chetan Kamatagi</h1>
 <h3 align="center">A passionate Automation and Robotics Engineer from India</h3>
 
