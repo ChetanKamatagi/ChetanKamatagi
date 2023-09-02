@@ -6,16 +6,11 @@
 
 - 🔭 I’m currently pursuing **B.E. in Automation and Robotics Engineering**
 
-- 🌱 I’m currently learning **ROS1, ROS2, Tkinter**
+- 🌱 I’m currently learning **ROS1, ROS2, NLP, Custom GPT**
 
-- 👯 I’m current working on **6 DOF robot, Humanoid Robot**
+- 👯 I’m current working on **6 DOF robot and Humanoid Robot**
 
 - 🤝 I’m looking for **Job in Robotics related company**
-
-
-- 💬 Ask me about **Image Processing, Machine learning**
-
-- 📫 How to reach me **kamatagichetan8@gmail.com**
 
 - ⚡ Fun fact **I think I'm funny**
 
@@ -25,11 +20,47 @@
 <a href="https://instagram.com/chetan kamatagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chetan kamatagi" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chetankamatagi&show_icons=true&locale=en&layout=compact" alt="chetankamatagi" /></p>
+<h2 align = "left">
+<samp> &gt; <b>Skills</b></samp><br>
+<h3><samp>&gt; Programming Languages<samp><br>
+</h3>
+</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chetankamatagi&show_icons=true&locale=en" alt="chetankamatagi" /></p>
+![C Programming](https://img.shields.io/badge/C%20Programming-A8B9CC?style=for-the-badge&labelColor=black&logo=C&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/C%20++-00599C?style=for-the-badge&labelColor=black&logo=C&logoColor=00599C)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chetankamatagi&" alt="chetankamatagi" /></p>
+
+<h3><samp>&gt; AI/ML Libraries<samp><br>
+</h3>
+
+![](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&labelColor=black&logo=numpy&logoColor=013243)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&labelColor=black&logo=pandas&logoColor=150458)
+![OpenCV](https://img.shields.io/badge/Open%20CV-5C3EE8?style=for-the-badge&labelColor=black&logo=opencv&logoColor=5C3EE8)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&labelColor=black&logo=keras&logoColor=D00000)
+![](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&labelColor=black&logo=scikitlearn&logoColor=F7931E)
+
+<h3><samp>&gt; Database<samp><br>
+</h3>
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1)
+
+<h3><samp>&gt; Softwares And Others<samp><br>
+</h3>
+  
+![Github](https://img.shields.io/badge/Git/Github-181717?style=for-the-badge&labelColor=black&logo=github&logoColor=181717)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&labelColor=black&logo=arduino&logoColor=00979D)
+<img width="30" height="30" src="https://raw.githubusercontent.com/pavanmp140102/pavanmp140102/35a9333cb66619320f4b646e0fda87c224b8e450/logos/matlab-svgrepo-com.svg"> ![MatLab](https://img.shields.io/badge/Matlab-FF0000?style=for-the-badge&labelColor=black&logo=matlab&logoColor=FF0000)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&labelColor=black&logo=ubuntu&logoColor=E95420)
+
+<br/>
+
+
+
+
+
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chetankamatagi&theme=nightowl)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chetankamatagi&theme=nightowl&hide_border=true&exclude_days=Sun)](https://git.io/streak-stats)                                                                       ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chetankamatagi&theme=nightowl)
