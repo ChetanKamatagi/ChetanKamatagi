@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **ROS1, ROS2, NLP, Custom GPT**
 
-- 👯 I’m current working on **6 DOF robot and Humanoid Robot**
+- 👯 I’m current working in **TATA Electronics Pvt. Ltd.**
 
 - 🤝 I’m looking for **Job in Robotics related company**
 
