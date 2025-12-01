@@ -10,7 +10,7 @@
 
 - 👯 I’m current working in **TATA Electronics Pvt. Ltd.**
 
-- 🤝 I’m looking for **Job in Robotics related company**
+- 🤝 I’m looking for **Job in AI/ML Field**
 
 - ⚡ Fun fact **I think I'm funny**
 
